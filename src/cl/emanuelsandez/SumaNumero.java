@@ -13,8 +13,8 @@ public class SumaNumero {
 		// TODO Auto-generated method stub
 		
 		capturaDatos();
-		resultadoSuma();
-		//sumar();
+		//resultadoSuma();
+		sumar(n1,n2);
 	}
 
 	public static int sumar (int a, int b) { //método que realiza la operación de suma
